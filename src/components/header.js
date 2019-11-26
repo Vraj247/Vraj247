@@ -1,31 +1,15 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import './Header.css'
 
 const Header = ({ siteTitle }) => (
-  <div
-    style={{
-      background: 'rebeccapurple',
-      marginBottom: '1.45rem',
-    }}
-  >
-    <div
-      style={{
-        margin: '0 auto',
-        maxWidth: 960,
-        padding: '1.45rem 1.0875rem',
-      }}
-    >
-      <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
-          style={{
-            color: 'white',
-            textDecoration: 'none',
-          }}
-        >
-          {siteTitle}
-        </Link>
-      </h1>
+  <div className="Header">
+    <div className="HeaderGroup">
+    <Link to ="https://www.linkedin.com/in/vraj247/">Linkedin</Link>
+    <Link to ="https://www.behance.net/vraj247">Behance</Link>
+    <Link to ="https://dribbble.com/Vraj247">Dribbble</Link>
+    <Link to ="https://www.instagram.com/vraj247/">Instagram</Link>
+    <Link to ="https://github.com/Vraj247">Github</Link>
     </div>
   </div>
 )

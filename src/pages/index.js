@@ -6,10 +6,10 @@ const IndexPage = () => (
     <div className="Hero">
       <div className="HeroGroup">
       <div className="img">
-      <img src = ""></img>
+      <img src="https://p21.f4.n0.cdn.getcloudapp.com/items/5zu54DdJ/mypic.png?v=0cb29474ad8ffb955c79f8f14c34c94b" alt="Cinque Terre" width="400" height="400"></img>
       </div>  
-      <h1>👋 Hello humans! </h1>
-      <p>I'm a Product Designer, currenly designing digital products for 100 Million+ humans at Paytm. I believe in designing experiences which solves problems but looks cool at the same time. Found myself between a designer and an Engineer </p>
+      <h1>Welcome fellow Human! </h1>
+      <p>Myself Vikas Raj Yadav, a Product Designer currenly in Bangalore,India. I'm a self taught designer who  </p>
       <Link to= "/Page2/">In Progress</Link> 
       </div>
     </div>

@@ -10,7 +10,7 @@
 
 .HeaderGroup{
     font-size: 16px;
-    max-width: 1024px;
+    max-width: 1200px;
     margin: 0 auto;
     display: grid;
     grid-template-columns: repeat(5,auto);

@@ -10,7 +10,7 @@ const IndexPage = () => (
         </div>  
       <h1>Hi, I'm Vikas Raj Yadav.</h1>
       <div className="Subtext">
-        <p>A Product UX Designer at Paytm workin on digital experiences for 100 million+ humans travelling from 🚆. Before joining Paytm, I worked at Grappus Studios where I worked on some of the most interesting projects like Uber DTI, Scio, PVR cinemas, freadom, Starquik etc.</p>
+        <p>A Product UX Designer at Paytm workin on digital experiences for 100 million+ humans. Before joining Paytm, I worked at Grappus Studios where I worked on some of the most interesting projects like Uber DTI, Scio, PVR cinemas, freadom, Starquik etc.</p>
       </div>
       <div className= "button">
         <a href="mailto:vikasyadav.vision111@gmail.com?Subject=Hey%20Vikas" target="_top">Say Hi!</a>

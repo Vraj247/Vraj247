@@ -24,7 +24,7 @@ body{
 
    .Hero{
    padding: 5rem 0 0 0;
-   max-width: 71.2rem;
+   max-width: 60rem;
    margin: 0 auto;
    }
 
@@ -36,8 +36,8 @@ body{
 
    .HeroGroup img {
    opacity: 0.6;
-   height: 250px;
-   width: 250px;
+   height: 320px;
+   width: 320px;
   }
 
    .Hero h1{
@@ -71,3 +71,27 @@ body{
 
 
   
+    .button {
+      margin-top: 60px;
+    }
+  
+    .button a {
+      color:rgba(255,255,255,.5);
+      border: 1px solid rgba(255,255,255,.2);
+      border-radius: 4px;
+      padding: 10px 30px;
+      cursor: pointer;
+      transition: .6s;
+      background: #000000;
+
+    }
+
+    .button a:hover {
+      color:rgba(255,255,255,.8);
+      border: 1px solid rgba(255,255,255,.8);
+      border-radius: 4px;
+      padding: 10px 30px;
+      cursor: pointer;
+      transform: translateY(-3px);
+      background: #000000;
+      }

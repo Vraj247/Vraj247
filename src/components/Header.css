@@ -4,6 +4,7 @@
     font-family: Alata;
     position: fixed;
     width: 100%;
+    background: #000;
     padding: 50px 0;
     z-index: 100;
 }
